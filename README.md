@@ -1,1 +1,1 @@
-https://github.com/FreEFreeZy/posmotri-v-okno
+https://github.com/FreEFreeZy/posmotri-v-okno-ad
